@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "plyway"
-version = "0.0.1"
+version = "0.0.2"
 description = "A simple Flyway clone for Python"
 authors = ["jdglaser <jarred.glaser@gmail.com>"]
 readme = "README.md"
@@ -17,7 +17,7 @@ line-length = 88
 max-line-length = 88
 
 [tool.poetry.dependencies]
-python = "^3.11"
+python = "^3.9"
 psycopg = {extras = ["binary"], version = "^3.1.8", optional=true}
 mysql-connector-python = {version="^8.0.32", optional=true}
 
