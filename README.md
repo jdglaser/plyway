@@ -8,7 +8,7 @@ A database migration tool written in Python and inpsired by Flyway.
 2. With `pyenv`, install Python 3.11 and setup as your default system version
 3. Run `pyenv version` and you should see:
     ```
-    3.11.0 (set by /Users/jarred/.pyenv/version)
+    3.11.0 (set by /Users/<user>/.pyenv/version)
     ```
 4. Run `which python` and you should see the below output (make sure it references `pyenv` so you are using the correct Python installation)
     ```
