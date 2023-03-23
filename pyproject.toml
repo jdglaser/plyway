@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "plyway"
 version = "0.0.3"
-description = "A simple Flyway clone for Python"
+description = "A database migration tool written in Python and inpsired by Flyway."
 authors = ["jdglaser <jarred.glaser@gmail.com>"]
 readme = "README.md"
 license = "MIT"

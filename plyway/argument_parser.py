@@ -16,7 +16,7 @@ def setup_parser() -> ArgumentParser:
     """
     # Parent Parser
     parent_parser = argparse.ArgumentParser(
-        prog="plyway", description="A simple Flyway clone in Python."
+        prog="plyway", description="A simple database migration tool."
     )
 
     # Get env variable defaults
